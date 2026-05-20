@@ -46,7 +46,7 @@ MSc Business Analytics student at ESADE Business School with a background in Man
 Developed proficiency in R for data wrangling and statistical modeling; applied EDA best practices on a real, messy dataset with domain complexity.
 
 **Links:**
-- 📁 Repo: <!-- TODO: Add GitHub repository link -->
+- 📁 Repo: [Proyect F1 in R](https://github.com/MateoBarredaR/f1_r)
 - 🖼️ Screenshots: <!-- TODO: Add demo GIF or screenshot -->
 
 ---
@@ -68,7 +68,7 @@ Developed proficiency in R for data wrangling and statistical modeling; applied 
 Practiced full-stack product prototyping from UX logic to deployment; applied geospatial data and user-centered design thinking to a real-world problem.
 
 **Links:**
-- 📁 Repo: <!-- TODO: Add GitHub repository link -->
+- 📁 Repo: [Prototype Barcelona Newcomer App](https://github.com/Jan2134/BCN_Newcomer_APP)
 - 🌐 Live demo: <!-- TODO: Add deployed app URL if available -->
 - 🖼️ Screenshots: <!-- TODO: Add screenshots -->
 
@@ -96,31 +96,8 @@ Practiced full-stack product prototyping from UX logic to deployment; applied ge
 Applied cloud-first design principles; gained hands-on experience deploying production-grade infrastructure on AWS.
 
 **Links:**
-- 📁 Repo: <!-- TODO: Add GitHub repository link -->
+- 📁 Repo: [Cloud Platforms Forging Line Cycle Time Analysis](https://github.com/MateoBarredaR/cloud-final-project)
 - 🖼️ Architecture diagram: <!-- TODO: Add diagram image -->
-
----
-
-### 🤖 AI Project — Machine Learning & Classification
-
-> Supervised learning project applying classification techniques to a structured business dataset.
-
-**Stack:** Python · scikit-learn · pandas · <!-- TODO: Confirm additional libraries -->
-
-**What I built:**
-- Feature engineering pipeline for structured tabular data
-- Trained and compared multiple classification models (<!-- TODO: e.g., Logistic Regression, Random Forest, XGBoost -->)
-- Model evaluation using cross-validation, confusion matrix, and business-relevant metrics
-- Interpretation layer connecting model output to actionable business insight
-
-**Results:**
-- Model type: <!-- TODO: Insert final model chosen -->
-- Performance: <!-- TODO: Insert metrics, e.g., Accuracy: XX% · F1: X.XX · AUC: X.XX -->
-- Business interpretation: <!-- TODO: Summarize the takeaway for a non-technical stakeholder -->
-
-**Links:**
-- 📁 Repo: <!-- TODO: Add GitHub repository link -->
-- 🖼️ Notebook / demo: <!-- TODO: Add link to notebook or demo -->
 
 ---
 
