@@ -47,7 +47,12 @@ Developed proficiency in R for data wrangling and statistical modeling; applied 
 
 **Links:**
 - 📁 Repo: [Proyect F1 in R](https://github.com/MateoBarredaR/f1_r)
-- 🖼️ Screenshots: <!-- TODO: Add demo GIF or screenshot -->
+- 🖼️ Demo:
+
+<!-- Drop your file in assets/ and uncomment the line that matches your format -->
+<!-- ![F1 Analytics demo](assets/f1-demo.gif) -->
+<!-- ![F1 Analytics screenshot](assets/f1-screenshot.png) -->
+<!-- [![Watch demo](assets/f1-thumbnail.png)](https://your-video-link.com) -->
 
 ---
 
@@ -70,7 +75,12 @@ Practiced full-stack product prototyping from UX logic to deployment; applied ge
 **Links:**
 - 📁 Repo: [Prototype Barcelona Newcomer App](https://github.com/Jan2134/BCN_Newcomer_APP)
 - 🌐 Live demo: <!-- TODO: Add deployed app URL if available -->
-- 🖼️ Screenshots: <!-- TODO: Add screenshots -->
+- 🖼️ Demo:
+
+<!-- Drop your file in assets/ and uncomment the line that matches your format -->
+<!-- ![BCN App screenshot](assets/bcn-screenshot.png) -->
+<!-- ![BCN App demo](assets/bcn-demo.gif) -->
+<!-- [![Watch demo](assets/bcn-thumbnail.png)](https://your-video-link.com) -->
 
 ---
 
@@ -97,7 +107,12 @@ Applied cloud-first design principles; gained hands-on experience deploying prod
 
 **Links:**
 - 📁 Repo: [Cloud Platforms Forging Line Cycle Time Analysis](https://github.com/MateoBarredaR/cloud-final-project)
-- 🖼️ Architecture diagram: <!-- TODO: Add diagram image -->
+- 🖼️ Architecture / Demo:
+
+<!-- Drop your file in assets/ and uncomment the line that matches your format -->
+<!-- ![AWS Architecture](assets/cloud-architecture.png) -->
+<!-- ![Cloud demo](assets/cloud-demo.gif) -->
+<!-- [![Watch demo](assets/cloud-thumbnail.png)](https://your-video-link.com) -->
 
 ---
 
